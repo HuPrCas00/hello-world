@@ -1,2 +1,2 @@
 # hello-world
-This it the tutorial repository
+This is the tutorial repository
